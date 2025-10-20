@@ -3,6 +3,7 @@
 To write a C Program for analysis of people of certain age groups who are eligible for getting a suitable college admission if their condition and norms get satisfied using nested if statement. Assume eligible age is 18 - 25. Total marks >=180.
 ## For example:
 <img width="401" height="115" alt="image" src="https://github.com/user-attachments/assets/ea63558d-e59f-4665-88dd-9831d66d6869" />
+
 ## Program:
 ```c
 #include <stdio.h>
